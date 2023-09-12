@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Forrest Yoga"
+title:  "Forest Yoga"
 author: neil
 categories: [ forest, yoga, outdoors ]
 image: assets/images/4.jpg
