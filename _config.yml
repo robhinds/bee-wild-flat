@@ -24,7 +24,7 @@ ganalytics: UA-xxxxx
 
 # Authors
 authors:
-  sal:
+  neil:
     name: Neil
     display_name: Neil
     avatar: 'assets/images/beelogo.png'
@@ -35,9 +35,9 @@ authors:
 
 # Social
 social:
-  instagram: https://www.instagram.com/beewild/
-  facebook: https://www.facebook.com/beewild
-  twitter: https://twitter.com/beewild
+  instagram: https://www.instagram.com/beewildnature/
+  facebook: https://www.facebook.com/beewildnature
+  twitter: https://twitter.com/beewildnature
 
 # Plugins
 plugins:

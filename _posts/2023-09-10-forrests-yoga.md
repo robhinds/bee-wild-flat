@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Forrest Yoga"
-author: sal
+author: neil
 categories: [ forest, yoga, outdoors ]
 image: assets/images/4.jpg
 ---

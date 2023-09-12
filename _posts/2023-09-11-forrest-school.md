@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Forrest School"
-author: sal
+author: neil
 categories: [ forrest schoo, education ]
 image: assets/images/3.jpg
 ---
