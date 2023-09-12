@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Powerful things you can do with the Markdown editor"
+title:  "Forrest Yoga"
 author: sal
-categories: [ Jekyll, tutorial ]
+categories: [ forest, yoga, outdoors ]
 image: assets/images/4.jpg
 ---
 There are lots of powerful things you can do with the Markdown editor
