@@ -30,29 +30,26 @@ background: '/img/bg-index.jpg'
         {% include postbox.html %}
       </div>
       {% endfor %}
-    </div>
 
-    <!-- BLOG FEATURE NEEDS TO BE ADDED BECAUSE ITS NOT A REGULAR PAGE-->
-    ---
-    layout: post
-    title:  "Blog"
-    author: john
-    categories: [ blog ]
-    image: assets/images/6.jpg
-    <div class="card">
-        <a href="/blog/">
-            <img class="rounded mb-4" src="{{ site.baseurl }}/assets/images/6.jpg" alt="Blog">
-        </a>
-        <div class="card-block">
-            <h2 class="card-title h4 serif-font"><a href="/blog/">{{ post.title }}</a></h2>
-            <p class="card-text text-muted">It's our blog! Read our incredible thoughts here..</p>
-            <div class="metafooter">
-                <div class="wrapfooter small d-flex align-items-center">
-                    <div class="clearfix"></div>
+      <!-- BLOG FEATURE NEEDS TO BE ADDED BECAUSE ITS NOT A REGULAR PAGE-->
+      <div class="col-md-6 mb-5">
+        <div class="card">
+            <a href="/blog/">
+                <img class="rounded mb-4" src="{{ site.baseurl }}/assets/images/6.jpg" alt="Blog">
+            </a>
+            <div class="card-block">
+                <h2 class="card-title h4 serif-font"><a href="/blog/">{{ post.title }}</a></h2>
+                <p class="card-text text-muted">It's our blog! Read our incredible thoughts here..</p>
+                <div class="metafooter">
+                    <div class="wrapfooter small d-flex align-items-center">
+                        <div class="clearfix"></div>
+                    </div>
                 </div>
             </div>
         </div>
+      </div>
+      <!-- END BLOG FEATURE -->
+
     </div>
-    <!-- END BLOG FEATURE -->
   </div>
 </section>
